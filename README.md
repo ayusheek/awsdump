@@ -1,8 +1,16 @@
+# awsdump
+
+automates pulic aws bucket enumeration and efficient downloading to uncover exposed data in public S3 buckets.
+
 ## Installation
 
+Using go:
+
 ```
-go install -v "github.com/ayusheek/awsdump/cmd/awsdump@latest"
+go install -v github.com/ayusheek/awsdump/cmd/awsdump@latest
 ```
+
+or [download a release for your platform](https://github.com/ayusheek/awsdump/releases/).
 
 ## Usage
 
@@ -30,3 +38,8 @@ Examples:
       awsdump https://aws.example.org -t 5 -o exampleBucket
       awsdump https://aws.example.org -scrape
 ```
+
+## TODO
+
+- [ ] Scrape & Download Truncated Buckets recursively
+- [ ] Read buckets from stdin
