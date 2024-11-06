@@ -42,4 +42,4 @@ Examples:
 ## TODO
 
 - [ ] Scrape & Download Truncated Buckets recursively
-- [ ] Read buckets from stdin
+- [ ] Read URLs from stdin
