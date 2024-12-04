@@ -43,3 +43,4 @@ Examples:
 
 - [ ] Scrape & Download Truncated Buckets recursively
 - [ ] Read URLs from stdin
+- [ ] Custom & Random ua support
