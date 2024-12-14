@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/ayusheek/awsdump/internal/bucket"
-	"github.com/ayusheek/awsdump/internal/download"
-	"github.com/ayusheek/awsdump/internal/runner"
+	"github.com/ayushkr12/awsdump/internal/bucket"
+	"github.com/ayushkr12/awsdump/internal/download"
+	"github.com/ayushkr12/awsdump/internal/runner"
 )
 
 func scrapeBucket(bucketURL string) {
