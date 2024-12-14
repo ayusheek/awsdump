@@ -7,7 +7,7 @@ automates pulic aws bucket enumeration and efficient downloading to uncover expo
 Using go:
 
 ```
-go install -v github.com/ayusheek/awsdump/cmd/awsdump@latest
+go install -v github.com/ayushkr12/awsdump/cmd/awsdump@latest
 ```
 
 or [download a release for your platform](https://github.com/ayusheek/awsdump/releases/).
