@@ -10,7 +10,7 @@ Using go:
 go install -v github.com/ayushkr12/awsdump/cmd/awsdump@latest
 ```
 
-or [download a release for your platform](https://github.com/ayusheek/awsdump/releases/).
+or [download a release for your platform](https://github.com/ayushkr12/awsdump/releases/).
 
 ## Usage
 
